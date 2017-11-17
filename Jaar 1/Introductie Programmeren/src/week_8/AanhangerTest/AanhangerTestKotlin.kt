@@ -12,7 +12,6 @@ class AanhangerTestKotlin {
 
     private val s = Scanner(System.`in`)
     private var choice = -1
-
     private val kleineAanhangers = ArrayList<String>()
     private val groteAanhangers = ArrayList<String>()
 
