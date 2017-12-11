@@ -3,12 +3,12 @@ package Week_4.TrainingInstitution;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class Institute {
+class Institute {
     private ArrayList<Registration> registrations = new ArrayList<>();
     private HashMap<String, Course> courses = new HashMap<>();
     private HashMap<Integer, Student> students = new HashMap<>();
 
-    public Institute() {
+    Institute() {
     }
 
     void addOnlineCourse(String course, int price, String url) {

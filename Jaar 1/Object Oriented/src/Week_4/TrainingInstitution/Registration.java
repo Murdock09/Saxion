@@ -5,7 +5,7 @@ public class Registration {
     private Course course;
     private String date;
 
-    public Registration(Student student, Course course, String date) {
+    Registration(Student student, Course course, String date) {
         this.student = student;
         this.course = course;
         this.date = date;

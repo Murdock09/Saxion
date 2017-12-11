@@ -5,7 +5,7 @@ public class Student {
     private String name;
     private String adress;
 
-    public Student(int studNum, String name, String adress) {
+    Student(int studNum, String name, String adress) {
         this.studNum = studNum;
         this.name = name;
         this.adress = adress;
@@ -13,6 +13,6 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student: Student nr  " + studNum + ": " + name + ", address: " + adress;
+        return "Student: Student nr " + studNum + ": " + name + ", address: " + adress;
     }
 }
