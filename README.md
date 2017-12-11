@@ -21,6 +21,7 @@ Op deze repo vind je al het huiswerk van het tweede jaar (2016,2017) en eerste j
 ## 1e jaars (2017-2018)
 
   - `Introductie programmeren`
+  - `OGP`
 
 ### Update 10-10-2017 15:44
 Doordat ik het even te druk kreeg op werk heb ik voor nu alleen opdracht 1 t/m 5 van week 7 op de repo gezet.
