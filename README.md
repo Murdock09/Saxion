@@ -1,10 +1,3 @@
-# ON HOLD
-
-Dag allen, ik heb op het moment namelijk drie projecten lopen en twee betaalde opdrachten en stage. Helaas zit er maar 24 uur in een dag en heb daardoor niet genoeg tijd om huiswerk aan te passen (c++ 2e jaars, helaas heb ik de goede versie niet meer) en nieuw huiswerk te maken (ogp, 1ste jaars). Als je echt problemen hebt en deze niet op kan lossen heb je voor nu gewoon pech of je vraagt het aan een klasgenoot of leraar. De repo zoals hij nu is blijft gewoon online en als jij wel oplossingen hebt maak dan even een pull request aan.
-
-Groetjes,
-Stijn
-
 # Saxion - HBO-ICT
 
 
